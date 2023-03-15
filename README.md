@@ -1,2 +1,2 @@
 # Calculator
-Click to website: http://niranjan36.github.io.calculator/
+Click to website: https://niranjan36.github.io.calculator/
